@@ -4,6 +4,9 @@ Lightweight RAG pipeline over the Wikipedia movie plots CSV. Loads data, chunks 
 
 ## Quick start
 
+Download the CSV Dataset and store in root directory as it was a big file in size couldn't upload it
+Link: https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots?resource=download
+
 1) Install deps (system/global or inside a venv—either works):
    ```
    pip install "numpy<2" "pandas<2.2" faiss-cpu openai
